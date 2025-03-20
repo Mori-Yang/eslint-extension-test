@@ -1,0 +1,24 @@
+{
+  "name": "eslint-extension-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mori-Yang/eslint-extension-test.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Mori-Yang/eslint-extension-test/issues"
+  },
+  "homepage": "https://github.com/Mori-Yang/eslint-extension-test#readme",
+  "devDependencies": {
+    "eslint": "^9.22.0",
+    "eslint-plugin-command": "^3.1.0"
+  }
+}
